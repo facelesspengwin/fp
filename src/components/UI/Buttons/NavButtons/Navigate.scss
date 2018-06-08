@@ -1,0 +1,12 @@
+.Navigate {
+    display: grid;
+    grid-template-columns: auto auto;
+    justify-self: right;
+    align-items: center;
+
+    .Left {
+        padding-right: 1rem;
+    }
+    .Right {
+    }
+}

@@ -1,0 +1,11 @@
+.Layout {
+    padding: 2rem;
+    box-sizing: border-box;
+    height: 100%;
+
+    .InnerContainer {
+        display: grid;
+        grid-template-rows: 10% 80% 10%;
+        height: 100%;
+    }
+}

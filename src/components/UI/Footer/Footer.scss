@@ -1,0 +1,13 @@
+.Footer {
+    display: grid;
+    grid-template-columns: auto auto;
+    align-items: center;
+    text-align: center;
+
+    .Copyright {
+        text-align: left;
+    }
+    .PowerReact {
+        text-align: right;
+    }
+}
